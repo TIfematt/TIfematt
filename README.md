@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: ConnectFlunz<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with AI and frontend projects<br>🌱 I’m currently learning pytouch<br>💬 Ask me about anything<br>⚡ Fun fact: Maybe i'll work for you tomorrow, who knows? lol
+🔭 I’m currently working on: Plenty things o<br>👯 I’m looking to collaborate on all projects<br>🌱 I’m currently learning Embedded programming<br>💬 Ask me about anything<br>⚡ Fun fact: Maybe i'll work for you tomorrow, who knows? lol
 
 
 # 💻 Tech Stack:
